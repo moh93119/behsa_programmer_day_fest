@@ -5,6 +5,8 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <AssemblyName>Behsa_Programmer_Day_1404</AssemblyName>
+        <RootNamespace>Behsa_Programmer_Day_1404</RootNamespace>
     </PropertyGroup>
 
 </Project>
